@@ -1,0 +1,12 @@
+[project]
+name = "csv-profiler"
+version = "0.1.0"
+description = "CSV profiling CLI tool"
+authors = [{ name = "Janah Hussein" }]
+dependencies = [
+    "typer",
+    "rich",
+]
+
+[project.scripts]
+csv-profiler = "csv_profiler.cli:app"
