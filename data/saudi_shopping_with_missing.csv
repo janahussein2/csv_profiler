@@ -1,0 +1,21 @@
+order_id,customer_name,city,item_name,quantity,unit_price_sar,total_amount_sar,payment_method,order_status,order_date
+1,Khalid Al Zahrani,Abha,Tablet,1,2200,2200,mada,pending,2025-04-27
+2,,Qassim,Laptop,1,3500,,mada,pending,2025-11-25
+3,Abdullah Al Anazi,,Monitor,2,1200,2400,apple_pay,pending,2025-02-24
+4,Fahad Al Qahtani,Dammam,Monitor,1,1200,1200,apple_pay,pending,2025-06-21
+5,Yousef Al Shammari,Hail,Keyboard,1,300,300,,completed,
+6,,Qassim,Headphones,1,450,450,mada,completed,2025-10-10
+7,Maha Al Dosari,Riyadh,Laptop,1,3500,3500,apple_pay,completed,2025-10-14
+8,Khalid Al Zahrani,Abha,Keyboard,1,,300,credit_card,pending,2025-04-27
+9,Noura Al Otaibi,Madinah,Smartphone,2,2800,,,pending,2025-07-21
+10,,Jeddah,Smartphone,3,,8400,,pending,2025-11-03
+11,Lina Al Ghamdi,Taif,Keyboard,3,,900,mada,pending,
+12,Ahmed Al Saud,Riyadh,Monitor,3,,3600,mada,pending,2025-04-16
+13,Fahad Al Qahtani,,,3,2200,6600,apple_pay,pending,2025-10-24
+14,Lina Al Ghamdi,Taif,,2,,4400,apple_pay,pending,2025-08-25
+15,Khalid Al Zahrani,Abha,Laptop,1,3500,3500,mada,completed,
+16,Khalid Al Zahrani,Abha,Laptop,1,3500,3500,apple_pay,completed,2025-09-01
+17,Khalid Al Zahrani,Abha,Headphones,1,450,450,credit_card,,2025-12-22
+18,Abdullah Al Anazi,Jubail,Laptop,3,3500,10500,credit_card,completed,
+19,Sara Al Harbi,,Keyboard,1,300,,credit_card,completed,2025-09-01
+20,Khalid Al Zahrani,,Smartphone,3,2800,8400,credit_card,completed,2025-07-01
